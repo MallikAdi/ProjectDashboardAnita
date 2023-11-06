@@ -3,6 +3,7 @@ import { View, StyleSheet, Image, Text, TouchableOpacity } from 'react-native'
 import { LineChart, BarChart } from 'react-native-chart-kit'
 import { Dimensions } from 'react-native'
 
+//hi ruhi how are you
 const SoilMoistureScreen = ({ navigation, route }) => {
   const { soilMoistureData, timeData } = route.params
 
